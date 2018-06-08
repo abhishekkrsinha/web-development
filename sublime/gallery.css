@@ -1,0 +1,28 @@
+h1{
+	font-family: 'Jua', sans-serif;
+}
+p{
+	font-family: 'Cormorant Unicase', serif;
+}
+.litem{
+	font-family: 'Sunflower', sans-serif;
+}
+.navbar-brand{
+	font-family: 'Eater', cursive;
+}
+body{
+	padding-top: 70px;
+}
+.jumbotron{
+	color: #483D8B;
+	background:#FDF5E6;
+}
+.navbar-inverse{
+	background:#483D8B;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #FFFFF0;
+}
+.navbar-inverse .navbar-brand {
+    color: #FFFFF0;
+}

@@ -1,0 +1,24 @@
+h1{
+		color: yellow;
+		background: #D2B48C;
+	}
+
+	h4{
+		color:orange;
+		/*border-color: blue;
+		border-width: 3px;
+		border-style: dashed;*/
+
+		border:2px dashed blue;
+	}
+
+	li{
+		color:purple;
+	}
+
+	body{
+		background: pink;
+		/*background: url(https://d2jd5cd93sjelr.cloudfront.net/spree/images/34247/product/200-2231-5420.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;*/
+	}
